@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "639704789203",
+    "firebase_url": "https://accessibletransit-e196c-default-rtdb.firebaseio.com",
+    "project_id": "accessibletransit-e196c",
+    "storage_bucket": "accessibletransit-e196c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639704789203:android:a5a6fa67f1f6e00c3ce426",
+        "android_client_info": {
+          "package_name": "com.accessible.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639704789203-me5516hm7ma54cj9aik4p6orf295japb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRquoQxBRJblfYvV-tTFqzvj3uubFHt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639704789203-ebh8i43cqtg68bpj8p5v95eemc461abi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639704789203:android:462835ce4729a6943ce426",
+        "android_client_info": {
+          "package_name": "com.accessible.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639704789203-me5516hm7ma54cj9aik4p6orf295japb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRquoQxBRJblfYvV-tTFqzvj3uubFHt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639704789203-ebh8i43cqtg68bpj8p5v95eemc461abi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background shown before Flutter paints its first frame. Matches
+         the splash artwork's backdrop so there is no white/black flash. -->
+    <color name="splash_background">#0C1E43</color>
+</resources>
